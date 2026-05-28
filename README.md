@@ -4,7 +4,6 @@
 
 <p>
   Backend developer focused on building reliable services with Go and Python.<br/>
-  Growing from junior to middle, one clean API and one better system design at a time.
 </p>
 
 </div>
