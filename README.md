@@ -12,7 +12,6 @@
 
 - Backend developer building real-world backend services with Go and Python.
 - Interested in performance, maintainable code, database design, caching, and backend reliability.
-- Actively leveling up toward middle by focusing on fundamentals, architecture, and better engineering habits.
 
 ## Tech stack
 
