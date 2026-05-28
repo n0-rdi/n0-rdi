@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**n0-rdi/n0-rdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm nordi_ 
 
-Here are some ideas to get you started:
+<p>
+  Backend developer focused on building reliable services with Go and Python.<br/>
+  Growing from junior to middle, one clean API and one better system design at a time.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About me
+
+- Backend developer building real-world backend services with Go and Python.
+- Interested in performance, maintainable code, database design, caching, and backend reliability.
+- Actively leveling up toward middle by focusing on fundamentals, architecture, and better engineering habits.
+
+## Tech stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=go,py,postgres,redis,docker,linux,git,github,bash&theme=dark" />
+</div>
+
+<br/>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/REST%20API-0f172a?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Fiber-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/Database%20Design-0f172a?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+## Contact me
+
+<div align="left">
+  <a href="https://t.me/plskkrw">
+    <img src="https://img.shields.io/badge/Telegram-@plskkrw-0f172a?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+  </a>
+  <a href="mailto:nordidevwoof@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nordidevwoof@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+</div>
