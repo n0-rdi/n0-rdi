@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm nordi_ 
+<h1> Hey, I'm nordi_ <img src="./assets/paw-dark.svg" width="28" alt="paw" /> </h1>
 
 <p>
   Backend developer focused on building reliable services with Go and Python.<br/>
