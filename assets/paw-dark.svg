@@ -1,0 +1,22 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="pad" x1="20" y1="18" x2="108" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#glow)">
+    <ellipse cx="31" cy="34" rx="12" ry="16" transform="rotate(-18 31 34)" fill="url(#pad)"/>
+    <ellipse cx="50" cy="22" rx="11" ry="15" transform="rotate(-6 50 22)" fill="url(#pad)"/>
+    <ellipse cx="78" cy="22" rx="11" ry="15" transform="rotate(6 78 22)" fill="url(#pad)"/>
+    <ellipse cx="97" cy="34" rx="12" ry="16" transform="rotate(18 97 34)" fill="url(#pad)"/>
+    <path d="M64 48C44 48 28 64 28 83C28 95 37 104 49 104C56 104 60 101 64 97C68 101 72 104 79 104C91 104 100 95 100 83C100 64 84 48 64 48Z" fill="url(#pad)"/>
+  </g>
+</svg>
